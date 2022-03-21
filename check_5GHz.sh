@@ -1,1 +1,1 @@
-airodump-ng --band a wlan0
+sudo airodump-ng --band a wlan0
